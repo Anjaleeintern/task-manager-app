@@ -1,0 +1,9 @@
+Frontend Live URL:
+https://task-manager-app-1-hq23.onrender.com/
+
+Backend API URL:
+https://task-manager-app-avc4.onrender.com/
+
+GitHub Repository:
+https://github.com/Anjaleeintern/task-manager-app.git
+
